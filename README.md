@@ -1,4 +1,4 @@
 # Vigenere-Cipher
-Corey Smith
-Sergio Gaytan
-Christian Green
+Corey Smith  /n
+Sergio Gaytan  /n
+Christian Green /n
