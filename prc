@@ -81,7 +81,7 @@ int main()
   // need prompts to ask for a user inputed keyword ALSO STRING
   string phrase;
   string keyword = "T"; //SET TO ONE LETTER BECAUSE PHRASE NEEDS TO BE BIGER THEN KEYWORD HAVING ONE LETTER ALLOWS FOR MORE PHRASES TO BE USED.
-  cout << "Please enter a phrase, in all caps, and with no spaces that you would like to encrypt: ";
+  cout << "Please enter a phrase in all caps and with no spaces that you would like to encrypt: ";
   cin >> phrase;
 
   string key = generateKey(phrase, keyword);
